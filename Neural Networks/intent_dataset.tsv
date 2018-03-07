@@ -1,0 +1,200 @@
+turn off the lights	lights.off
+please turn off the lights	lights.off
+lights off	lights.off
+"please, turn off the lights"	lights.off
+I need the lights off now	lights.off
+turn off the lights now	lights.off
+turn off the lights now	lights.off
+off with the lights	lights.off
+off lights	lights.off
+lights off	lights.off
+shutdown the lights	lights.off
+shut the lights	lights.off
+kill the lights	lights.off
+can you kill the lights	lights.off
+kill the lights now	lights.off
+shutdown the lights	lights.off
+shut off the lights	lights.off
+shut down the lights	lights.off
+"the lights, can you shut them off"	lights.off
+can you shut off the lights	lights.off
+I need you to shut down the lights	lights.off
+the lights should be shut down	lights.off
+the lights need to be shutdown	lights.off
+I want the lights off	lights.off
+off with the lights	lights.off
+"off, I need the lights off"	lights.off
+please light off	lights.off
+turn the light off	lights.off
+the light needs to be shut off	lights.off
+light closed now please	lights.off
+"too bright, turn off the light"	lights.off
+shut off the lights	lights.off
+off with the light	lights.off
+shut off the light	lights.off
+please turn off the light right now	lights.off
+I really want that light off	lights.off
+"I hate this lighting, turn it off"	lights.off
+turn the lighting off	lights.off
+toggle the lights off	lights.off
+toggle the lighting off	lights.off
+switch off the lights	lights.off
+turn off the lights	lights.off
+I need to turn off the lights	lights.off
+"off, I need the lights off now"	lights.off
+the lights should be off	lights.off
+make the lights off	lights.off
+make the light off	lights.off
+make light turn off	lights.off
+make lighting off	lights.off
+turn off all the lights	lights.off
+activate the lights	lights.on
+let there be light	lights.on
+lights!	lights.on
+turn on the lights	lights.on
+switch on the light	lights.on
+turn the lighting on	lights.on
+turn on all the lights	lights.on
+activate the lights	lights.on
+light it up	lights.on
+light up my life	lights.on
+turn on the lights	lights.on
+flip on the lights	lights.on
+turn on that light	lights.on
+please turn on the light	lights.on
+would you please turn on the light	lights.on
+the light should be on	lights.on
+the light should be turned on right now	lights.on
+"turn it on, turn the light on"	lights.on
+"it's too dark, turn on the light"	lights.on
+we need some light	lights.on
+activate the lighting apparatus	lights.on
+toggle on the light	lights.on
+toggle the lights on	lights.on
+switch the lights on	lights.on
+turn on the lights	lights.on
+on light	lights.on
+lights on	lights.on
+light on	lights.on
+on light now	lights.on
+lights on now	lights.on
+turn on the light	lights.on
+light it up	lights.on
+make it brighter	lights.on
+it needs to be brighter in here	lights.on
+brighten up the room please	lights.on
+light up this room now	lights.on
+lights on in this room	lights.on
+"this room needs to be brighter, turn on the lights"	lights.on
+"it's a little dark, can you make it brighter"	lights.on
+We really need more lighting in here	lights.on
+we need more light	lights.on
+lights have to be turned on now	lights.on
+bring us some light	lights.on
+switch on the lighting in this room	lights.on
+"turn on the lights, make this room brighter"	lights.on
+bring us light through the darkness	lights.on
+toggle the lights on	lights.on
+turn on the lights	lights.on
+turn on all the lights in the house	lights.on
+activate all the light in this room	lights.on
+what is the weather like	weather
+what is the weather report today	weather
+tell me what the weather is like today	weather
+what is the weather like in New York	weather
+what is the weather like in Seattle	weather
+is it raining tomorrow	weather
+is it going to rain	weather
+is it snowing	weather
+what is the weather report today? Is it raining?	weather
+will it rain today	weather
+will it rain tomorrow	weather
+when is it supposed to rain	weather
+is it snowing now?	weather
+when is it supposed to snow	weather
+is it snowing in New York	weather
+it it cold outside	weather
+what is the weather like now	weather
+how cold is it outside	weather
+how cold is the weather today?	weather
+is it too cold outside?	weather
+is it warm outside today?	weather
+how warm is it in New York City?	weather
+how warm is the weather in San Francisco?	weather
+how warm is it today? Will it rain?	weather
+what is the weather like this week	weather
+can you give me the weather forecast this week	weather
+what is the weather forecast	weather
+Can you please tell me the weather forecast	weather
+what is the chance of rain?	weather
+what is the chance of snow?	weather
+is it very likely to rain or snow?	weather
+IS it cold outside?	weather
+Will it be cold and snowing later?	weather
+is it going to be rain weather?	weather
+rainy weather today?	weather
+is it going to be warm outside later?	weather
+is the weather going to be nice later?	weather
+how warm is it going to be later?	weather
+how cold is it going to be this week	weather
+how much rain are we getting this week	weather
+how much snow is in the weather forecast	weather
+what is the forecast this week?	weather
+what is the weather forecast for New Jersey?	weather
+how cold is the weather forecast?	weather
+is it too warm outside?	weather
+is it warm out?	weather
+is it cold out?	weather
+is it raining out?	weather
+tell me the weather please	weather
+how warm is the weather today	weather
+play me a song	music
+play some music	music
+turn on some music	music
+I want some music	music
+lay down some music	music
+lay down some tunes	music
+I want some music	music
+start my playlist	music
+I want to hear my favorite playlist	music
+play my favorite song	music
+We need some music	music
+can you play me a song	music
+can you start my playlist	music
+bring some tunes	music
+lay down the beat	music
+lets rock this party	music
+this party needs some music	music
+play some rocking tunes	music
+turn on the music	music
+turn on my playlist	music
+turn on the music player	music
+start the song	music
+cue music	music
+we need music	music
+please get me some music now	music
+I want some rock music	music
+play some classical music	music
+play some rap music	music
+classical music would be great now	music
+some music would be nice	music
+play that funky music	music
+can you play some rock music for us	music
+can we get some relaxing classical music	music
+play some beautiful music	music
+can we hear a pretty song	music
+I want to hear some music now please	music
+where is the music	music
+there's no music	music
+turn on the music please	music
+hit my rock playlist	music
+start my classical music playlist	music
+start playlist	music
+run playlist	music
+play the songs in my main playlist	music
+start my music	music
+need some tunes	music
+playlist go	music
+can we get some music now	music
+I’m in the mood for some sad music	music
+can we get some upbeat music	music
